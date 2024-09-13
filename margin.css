@@ -1,0 +1,28 @@
+.text1 {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin-bottom: 60px;
+}
+
+.text2 {
+    width: 200px;
+    height: 300px;
+    background-color: aqua;  
+    margin-top: 20px;
+}
+
+.text3 {
+    width: 150px;
+    height: 150px;
+    background-color: violet;  
+    margin-top: 10px;
+
+}
+
+.text4 {
+    width: 150px;
+    height: 300px;
+    background-color: pink;  
+    margin-top: 10px;
+}
